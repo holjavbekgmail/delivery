@@ -1,0 +1,14 @@
+User-agent: * 
+Disallow: /wp- 
+Disallow: /xmlrpc.php 
+Disallow: /category/ 
+Disallow: /page/
+ Disallow: /trackback/ 
+Disallow: /feed 
+Disallow: /comments/
+ Disallow: */trackback/ 
+Disallow: */feed/ 
+Disallow: */comments/ 
+Disallow: /?feed=
+ Disallow: /?s= Allow: /wp-content/uploads/ 
+Sitemap: /sitemap.xml
